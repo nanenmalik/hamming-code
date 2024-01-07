@@ -1,8 +1,4 @@
-//hammingCode.java
 
-public class hammingCode{
-   
-    //Method 3
     public static int getParityBit(int returnData[], int power) {
         int parityBit = 0;
         int size = returnData.length;
